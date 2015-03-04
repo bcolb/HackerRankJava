@@ -6,7 +6,7 @@ Problems are limited to 'classic' Hackerrank problems. Solutions to ongoing chal
 
 ## Categories
 1. [Algorithms](/Algorithms)
-2. Artificial Intelligence
+2. [Artificial Intelligence](/ArtificialIntelligence)
 3. Miscellaneous
 
 Note: This repository focuses on solutions in Java. As such functional programming challenges are not included.
