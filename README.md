@@ -24,4 +24,4 @@ The below are example linux commands to compile and run a Java program designed 
 
 ## Disclaimer
 
-The code contained herein is intended for practice only. As such it should not be included in production level products. The focus of these challenges has been to complete them quickly.
+The code contained herein is intended for practice only.
