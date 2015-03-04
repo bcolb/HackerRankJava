@@ -5,7 +5,7 @@ A collection of solutions to select problems found on [HackerRank](http://hacker
 Problems are limited to 'classic' Hackerrank problems. Solutions to ongoing challenges are not included in this repository. Additionally, please do not use any code in this repository for any current HackerRank challenges. 
 
 ## Categories
-1. Algorithms
+1. [Algorithms](/Algorithms)
 2. Artificial Intelligence
 3. Miscellaneous
 
