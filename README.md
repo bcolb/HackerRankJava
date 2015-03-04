@@ -1,8 +1,8 @@
 HackerRank - Java
 ================
-A collection of solutions to select problems found on [HackerRank](http://hackerrank.com/). Solutions are posted here for informatinoal purposes. 
+A collection of solutions to select problems found on [HackerRank](http://hackerrank.com/).
 
-Problems are limited to 'classic' Hackerrank problems. Solutions to ongoing challenges are not included in this repository. Additionally, please do not use any code in this repository for any current HackerRank challenges. 
+Solutions to ongoing challenges are not included in this repository. Additionally, please do not use any code in this repository for any current HackerRank challenges. 
 
 ## Categories
 1. [Algorithms](/Algorithms)
